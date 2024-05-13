@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    color: red;
+    color: #017ed5;
 }
 .h2Color {
     color: brown;
@@ -20,6 +20,10 @@ p {
 .space {
     margin: 20px auto;
     width: 50%;
+}
+
+img {
+    width: 100%;
 }
 
 .table-content {
@@ -39,6 +43,6 @@ th, td {
 }
 
 th {
-    background-color: black;
-    color: white;
+    background-color: #00ea8d;
+    color: black;
 }
