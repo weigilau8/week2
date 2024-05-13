@@ -1,0 +1,44 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: red;
+}
+.h2Color {
+    color: brown;
+}
+
+h6 {
+    color: darkred;
+}
+
+p {
+    color: darkgreen;
+}
+
+.space {
+    margin: 20px auto;
+    width: 50%;
+}
+
+.table-content {
+    margin: 0 auto;
+    width: 50%
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
